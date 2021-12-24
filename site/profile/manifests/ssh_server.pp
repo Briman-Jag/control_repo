@@ -10,6 +10,6 @@ class profile::ssh_server {
 		ensure => present,
 		user   => 'root',
 		type   => 'ssh-rsa',
-		key    => '',
+		key    => 'JjUfxo+fUyL9sE4BqLYJqlo0V5FqvqDV9waJ42w9svs',
 	}  
 }
